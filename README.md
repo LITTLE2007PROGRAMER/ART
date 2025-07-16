@@ -110,31 +110,4 @@ ART is in active development, and contributions are most welcome! Please see the
 ```bibtex
 @misc{hilton2025art,
   author = {Brad Hilton and Kyle Corbitt and David Corbitt and Saumya Gandhi and Angky William and Bohdan Kovalenskyi and Andie Jones},
-  title = {ART: Agent Reinforcement Trainer},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/openpipe/art}}
-}
-```
-
-## ⚖️ License
-
-This repository's source code is available under the [Apache-2.0 License](LICENSE).
-
-## 🙏 Credits
-
-ART stands on the shoulders of giants. While we owe many of the ideas and early experiments that led to ART's development to the open source RL community at large, we're especially grateful to the authors of the following projects:
-
-- [Unsloth](https://github.com/unslothai/unsloth)
-- [vLLM](https://github.com/vllm-project/vllm)
-- [trl](https://github.com/huggingface/trl)
-- [torchtune](https://github.com/pytorch/torchtune)
-- [SkyPilot](https://github.com/skypilot-org/skypilot)
-
-Finally, thank you to our partners who've helped us test ART in the wild! We're excited to see what you all build with it.
-
-[pypi-url]: https://pypi.org/project/openpipe-art/
-[contribute-url]: https://github.com/openpipe/art/blob/main/CONTRIBUTING.md
-[contribute-image]: https://img.shields.io/badge/PRs-welcome-blue.svg
-[downloads-image]: https://img.shields.io/pypi/dm/openpipe-art?color=364fc7&logoColor=364fc7
+  title = {ART: Agent Reinforcement 
